@@ -10,4 +10,4 @@ $config['ui'] = true;
 $config['ui_admin'] = true;
 $config['categories'] = "other";
 $config['position'] = "100";
-$config['version'] = 0.01;
+$config['version'] = 0.1;
