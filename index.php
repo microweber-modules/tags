@@ -12,8 +12,6 @@ if(!$cont_id and $root_page_id){
     $cont_id   = $root_page_id;
 }
 
-
-
 $content_tags_data = false;
 if($root_page_id){
     $tags_url_base = content_link($root_page_id);
